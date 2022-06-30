@@ -1,0 +1,51 @@
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование по общим дисциплинам.csproj.AssemblyReference.cache
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Properties.Resources.resources
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование по общим дисциплинам.csproj.GenerateResource.cache
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование по общим дисциплинам.csproj.CoreCompileInputs.cache
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\bin\Debug\Bd_test.mdb
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Student.resources
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Admin.resources
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Authorization.resources
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.AddAkk.resources
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.TextEditor.resources
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Exammode.resources
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Testmode.resources
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\bin\Debug\Bd_test.mdb
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\Тестирование по общим дисциплинам.csproj.AssemblyReference.cache
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Authorization.resources
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Admin.resources
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.AddAkk.resources
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Exammode.resources
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Properties.Resources.resources
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Student.resources
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Testmode.resources
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.TextEditor.resources
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\Тестирование по общим дисциплинам.csproj.GenerateResource.cache
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\Тестирование по общим дисциплинам.csproj.CoreCompileInputs.cache
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\bin\Debug\МОГУс.exe.config
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\bin\Debug\МОГУс.exe
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\bin\Debug\МОГУс.pdb
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\МОГУс.exe
+C:\Users\Dar`Bars\Desktop\Тестирование по общим дисциплинам\obj\Debug\МОГУс.pdb
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\bin\Debug\МОГУс.exe.config
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\bin\Debug\МОГУс.exe
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\bin\Debug\МОГУс.pdb
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\МОГУс.exe
+C:\Users\Dar`Bars\Desktop\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\МОГУс.pdb
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\bin\Debug\Bd_test.mdb
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\bin\Debug\МОГУс.exe.config
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\bin\Debug\МОГУс.exe
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\bin\Debug\МОГУс.pdb
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование по общим дисциплинам.csprojResolveAssemblyReference.cache
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Authorization.resources
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Admin.resources
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.AddAkk.resources
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Exammode.resources
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Properties.Resources.resources
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Student.resources
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.Testmode.resources
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование_по_общим_дисциплинам.TextEditor.resources
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование по общим дисциплинам.csproj.GenerateResource.Cache
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\Тестирование по общим дисциплинам.csproj.CoreCompileInputs.cache
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\МОГУс.exe
+E:\Диплом\Тест 2\Тестирование по общим дисциплинам\obj\Debug\МОГУс.pdb
